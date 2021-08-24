@@ -1,18 +1,13 @@
 # -*- coding: utf-8 -*-
 
-import bs4
 import discord
-from selenium import webdriver
+import os
 from token_a import *
 from help import *
 from unit import *
 from music import *
 from virture_singer import *
 from leo_need import *
-
-options = webdriver.ChromeOptions()
-
-options.add_argument("headless")
 
 client = discord.Client()
 prefix = "^"
@@ -596,4 +591,6 @@ async def on_message(message):
     if message.content == f"{prefix}세카이검색 음악 칠드런 레코드" or  message.content == f"{prefix}세카이검색 음악 칠드런레코드":
         await message.channel.send(embed=CR)
 
-client.run(token)
+
+access_token = os.environ["BOT_TOKEN"]
+client.run(access_token)
