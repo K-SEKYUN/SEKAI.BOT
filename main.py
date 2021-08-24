@@ -1,6 +1,5 @@
 import discord
 import os
-from token_a import *
 from help import *
 from unit import *
 from music import *
