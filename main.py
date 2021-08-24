@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import discord
 import os
 from token_a import *
@@ -39,41 +37,7 @@ async def on_message(message):
 
     if message.content == f"{prefix}세카이검색" or message.content == f"{prefix}세카이검색":
         await message.channel.send(embed=sk_help)
-
-    #Search Commands(보카로 가사위키)
-    if message.content.startswith(f'{prefix}가사검색'):
-        learn = message.content.split(" ")
-        Text = ""
-        vrsize = len(learn)
-        vrsize = int(vrsize)
-        for i in range(1, vrsize):
-            Text = Text + " " + learn[i]
-        encText = Text
-
-        chromedriver_dir = r'chromedriver'
-        driver = webdriver.Chrome(chromedriver_dir, options=options)
-        driver.get('https://cse.google.com/cse?cx=010798177249342776914:8madl3htvdg&q=' + encText)
-        source = driver.page_source
-        bs = bs4.BeautifulSoup(source, 'lxml')
-        entire = bs.find_all('a', {'class': 'gs-title'})
-
-        embed = discord.Embed(title="보카로 가사검색", color = 0x39c5bb)
-
-        for i in range(0, 1):
-            entireNum = entire[i]
-            entireText = entireNum.text.strip()
-            print(entireText)
-            hyperlink = entireNum.get('href')
-            print(hyperlink)
-            rink = '' + hyperlink
-            embed.add_field(name="가사 검색 결과", value=entireText + '\n링크 : ' + rink)
-            embed.set_footer(text="보카로 가사위키 : http://vocaro.wikidot.com/")
-            embed.set_thumbnail(url='https://media.discordapp.net/attachments/828584254384111618/828669784748982312/Vocaloid_Lyrics_icon.png')
-
-        await message.channel.send(embed=embed)
-
-        driver.quit()
-
+        
     #PROSEKA UNIT Commands
     #UNIT LIST
     if message.content == f"{prefix}세카이검색 유닛":
@@ -592,5 +556,4 @@ async def on_message(message):
         await message.channel.send(embed=CR)
 
 
-access_token = os.environ["BOT_TOKEN"]
-client.run(access_token)
+client.run(os.environ['token'])
