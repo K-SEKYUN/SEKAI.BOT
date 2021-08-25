@@ -31,7 +31,7 @@ async def on_message(message):
     # print(mention,message.content)
 
     #Help Commands
-    if message.content == f"{prefix}도움말" or message.content == f"{prefix}help"":
+    if message.content == f"{prefix}도움말" or message.content == f"{prefix}help":
         await message.channel.send(embed=help)
 
     if message.content == f"{prefix}세카이검색" or message.content == f"{prefix}세카이검색":
