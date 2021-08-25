@@ -34,6 +34,9 @@ async def on_message(message):
     if message.content == f"{prefix}도움말" or message.content == f"{prefix}help":
         await message.channel.send(embed=help)
 
+    if message.content == f"{prefix}세카이검색" or message.content == f"{prefix}세카이검색":
+        await message.channel.send(embed=sk_help)
+
     #PROSEKA UNIT Commands
     #UNIT LIST
     if message.content == f"{prefix}세카이검색 유닛":
