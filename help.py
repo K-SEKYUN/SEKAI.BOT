@@ -1,7 +1,6 @@
 import discord
 
 help = discord.Embed(title='도움말', description='도움이 필요할때 ```^도움말 or ^help``` 라고 해줘!!', color = 0x39c5bb)
-help.add_field(name='```^가사검색```', value='보카로 가사 검색을 할수 있습니다', inline=True)
 help.add_field(name='```^세카이검색```', value='세카이에 관한 정보를 볼수 있습니다', inline=True)
 help.set_footer(text='Made By Luen')
 help.set_thumbnail(url="https://media.discordapp.net/attachments/828467375337766962/828581378827485275/1.jpg?width=465&height=491")
