@@ -368,7 +368,7 @@ async def on_message(message):
 
     #from Y to Y
     if message.content == f"{prefix}세카이검색 음악 from Y to Y" or message.content == f"{prefix}세카이검색 음악 fromYtoY" or message.content == f"{prefix}세카이검색 음악 from y to y" or message.content == f"{prefix}세카이검색 음악 fromytoy":
-        await message.channel.send(embed=embed)
+        await message.channel.send(embed=FYTY)
 
     #날이 개길 기다려
     if message.content == f"{prefix}세카이검색 음악 날이 개길 기다려" or message.content == f"{prefix}세카이검색 음악 날이개길기다려":
