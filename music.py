@@ -2,7 +2,7 @@ import discord
 
 TYW = discord.Embed(title='Tell your World', description='작곡, 편곡, 작사 : kz', color=0x39c5bb)
 TYW.add_field(name='유닛', value="VIRTURE SINGER", inline=False)
-TYW.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n', inline=False)
+TYW.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n', inline=False)
 TYW.add_field(name='Easy - 5', value='노트 수 : 220\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0001/easy.png>)', inline=True)
 TYW.add_field(name='Normal - 10', value='노트 수 : 492\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0001/normal.png>)', inline=True)
 TYW.add_field(name='Hard - 16', value='노트 수 : 719\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0001/hard.png>)', inline=True)
@@ -112,7 +112,7 @@ NBC.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 HSS = discord.Embed(title='하츠네미쿠의 소실(初音ミクの消失)', description='작곡, 작사 : cosMo@폭주P', color=0x39c5bb)
 HSS.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-HSS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+HSS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 HSS.add_field(name='Easy - 9', value='노트 수 : 376\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0049/easy.png>)', inline=True)
 HSS.add_field(name='Normal - 14', value='노트 수 : 751\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0049/normal.png>)', inline=True)
 HSS.add_field(name='Hard - 20', value='노트 수 : 1116\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0049/hard.png>)', inline=True)
@@ -123,7 +123,7 @@ HSS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 HGC = discord.Embed(title='하츠네미쿠의 격창(初音ミクの激唱)', description='작곡, 작사 : cosMo@폭주P', color=0x39c5bb)
 HGC.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-HGC.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+HGC.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 HGC.add_field(name='Easy - 9', value='노트 수 : 409\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0131/easy.png>)', inline=True)
 HGC.add_field(name='Normal - 14', value='노트 수 : 707\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0131/normal.png>)', inline=True)
 HGC.add_field(name='Hard - 20ㄴ', value='노트 수 : 963\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0131/hard.png>)', inline=True)
@@ -134,7 +134,7 @@ HGC.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 GS = discord.Embed(title='그린라이츠 세레나데(グリーンライツ・セレナーデ)', description='편곡, 작곡 : Omoi\n작사 : Sakurai', color=0x39c5bb)
 GS.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-GS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+GS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 GS.add_field(name='Easy - 9', value='노트 수 : 237\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0046/easy.png>)', inline=True)
 GS.add_field(name='Normal - 14', value='노트 수 : 413\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0046/normal.png>)', inline=True)
 GS.add_field(name='Hard - 19', value='노트 수 : 770\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0046/hard.png>)', inline=True)
@@ -145,7 +145,7 @@ GS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 SR = discord.Embed(title='샤를(シャルル)', description='편곡, 작곡, 작사 : 벌룬', color=0x884499)
 SR.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-SR.add_field(name='보컬', value='v flower(버츄얼 싱어 버전)\n\n시노노메 에나, 아키야마 미즈키(세카이 버전)\n\n아키야마 미즈키(어나더 보컬 버전)\n\n시노노메 에나(어나더 보컬 버전)', inline=False)
+SR.add_field(name='보컬', value='v flower(버츄얼 버전)\n\n시노노메 에나, 아키야마 미즈키(세카이 버전)\n\n아키야마 미즈키(어나더 보컬 버전)\n\n시노노메 에나(어나더 보컬 버전)', inline=False)
 SR.add_field(name='Easy - 6', value='노트 수 : 128\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0019/easy.png>)', inline=True)
 SR.add_field(name='Normal - 11', value='노트 수 : 338\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0019/normal.png>)', inline=True)
 SR.add_field(name='Hard - 17', value='노트 수 : 562\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0019/hard.png>)', inline=True)
@@ -156,7 +156,7 @@ SR.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 TBR = discord.Embed(title='탈법 록(脱法ロック)', description='작곡, 작사 : Neru', color=0xff9900)
 TBR.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-TBR.add_field(name='보컬', value='카가미네 렌(버츄얼 싱어 버전)\n\n텐마 츠카사, 카미시로 루이, 카가미네 렌(세카이 버전)\n\n카이토(어나더 보컬 버전)', inline=False)
+TBR.add_field(name='보컬', value='카가미네 렌(버츄얼 버전)\n\n텐마 츠카사, 카미시로 루이, 카가미네 렌(세카이 버전)\n\n카이토(어나더 보컬 버전)', inline=False)
 TBR.add_field(name='Easy - 7', value='노트 수 : 195\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0021/easy.png>)', inline=True)
 TBR.add_field(name='Normal - 13', value='노트 수 : 751\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0021/normal.png>)', inline=True)
 TBR.add_field(name='Hard - 18', value='노트 수 : 562\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0021/hard.png>)', inline=True)
@@ -167,7 +167,7 @@ TBR.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 SMI = discord.Embed(title='생명에게 미움받고 있어(命に嫌われている。)', description='편곡, 작곡, 작사 : 칸자키 이오리', color=0x884499)
 SMI.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-SMI.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n요이사키 카나데, 하츠네 미쿠(세카이 버전)\n\n요이사키 카나데(어나더 보컬 버전)\n\n카가미네 린(어나더 보컬 버전)\n\n메구리네 루카(어나더 보컬 버전)', inline=False)
+SMI.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n요이사키 카나데, 하츠네 미쿠(세카이 버전)\n\n요이사키 카나데(어나더 보컬 버전)\n\n카가미네 린(어나더 보컬 버전)\n\n메구리네 루카(어나더 보컬 버전)', inline=False)
 SMI.add_field(name='Easy - 9', value='노트 수 : 120\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0022/easy.png>)', inline=True)
 SMI.add_field(name='Normal - 14', value='노트 수 : 367\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0022/normal.png>)', inline=True)
 SMI.add_field(name='Hard - 18', value='노트 수 : 515\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0022/hard.png>)', inline=True)
@@ -178,7 +178,7 @@ SMI.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 BIO = discord.Embed(title='열등상등(劣等上等, BRING IT ON)', description='편곡, 작곡, : Giga\n작사 : Reol', color=0xee1166)
 BIO.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-BIO.add_field(name='보컬', value='카가미네 린, 카가미네 렌(버츄얼 싱어 버전)\n\n카가미네 린, 카가미네 렌, 아즈사와 코하네, 시라이시 안(세카이 버전)', inline=False)
+BIO.add_field(name='보컬', value='카가미네 린, 카가미네 렌(버츄얼 버전)\n\n카가미네 린, 카가미네 렌, 아즈사와 코하네, 시라이시 안(세카이 버전)', inline=False)
 BIO.add_field(name='Easy - 7', value='노트 수 : 148\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0026/easy.png>)', inline=True)
 BIO.add_field(name='Normal - 12', value='노트 수 : 371\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0026/normal.png>)', inline=True)
 BIO.add_field(name='Hard - 18', value='노트 수 : 520\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0026/hard.png>)', inline=True)
@@ -189,7 +189,7 @@ BIO.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 JBF = discord.Embed(title='Just Be Friends', description='작곡, 작사 : Dixie Flatline', color=0xee1166)
 JBF.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-JBF.add_field(name='보컬', value='메구리네 루카(버츄얼 싱어 버전)\n\n아즈사와 코하네, 시라이시 안, 메구리네 루카(세카이 버전)\n\n아즈사와 코하네(어나더 보컬 버전)\n\n시라이시 안(어나더 보컬 버전)', inline=False)
+JBF.add_field(name='보컬', value='메구리네 루카(버츄얼 버전)\n\n아즈사와 코하네, 시라이시 안, 메구리네 루카(세카이 버전)\n\n아즈사와 코하네(어나더 보컬 버전)\n\n시라이시 안(어나더 보컬 버전)', inline=False)
 JBF.add_field(name='Easy - 6', value='노트 수 : 148\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0027/easy.png>)', inline=True)
 JBF.add_field(name='Normal - 11', value='노트 수 : 410\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0027/normal.png>)', inline=True)
 JBF.add_field(name='Hard - 17', value='노트 수 : 679\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0027/hard.png>)', inline=True)
@@ -200,7 +200,7 @@ JBF.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 DPB = discord.Embed(title='닥터=펑크 비트(ドクター＝ファンクビート)', description='작곡, 작사 : nyanyannya', color=0xee1166)
 DPB.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-DPB.add_field(name='보컬', value='카이토(버츄얼 싱어 버전)\n\n카이토, 시노노메 아키토, 아오야기 토우야(세카이 버전)\n\n카가미네 렌(어나더 보컬 버전)', inline=False)
+DPB.add_field(name='보컬', value='카이토(버츄얼 버전)\n\n카이토, 시노노메 아키토, 아오야기 토우야(세카이 버전)\n\n카가미네 렌(어나더 보컬 버전)', inline=False)
 DPB.add_field(name='Easy - 8', value='노트 수 : 160\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0028/easy.png>)', inline=True)
 DPB.add_field(name='Normal - 13', value='노트 수 : 436\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0028/normal.png>)', inline=True)
 DPB.add_field(name='Hard - 19', value='노트 수 : 677\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0028/hard.png>)', inline=True)
@@ -211,7 +211,7 @@ DPB.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 MP = discord.Embed(title='미라클 페인트(ミラクルペイント)', description='작곡, 작사, 편곡 : OSTER project', color=0xff9900)
 MP.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-MP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n원더랜즈×쇼타임(세카이 버전)', inline=False)
+MP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n원더랜즈×쇼타임(세카이 버전)', inline=False)
 MP.add_field(name='Easy - 9', value='노트 수 : 266\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0036/easy.png>)', inline=True)
 MP.add_field(name='Normal - 12', value='노트 수 : 618\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0036/normal.png>)', inline=True)
 MP.add_field(name='Hard - 18', value='노트 수 : 812\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0036/hard.png>)', inline=True)
@@ -222,7 +222,7 @@ MP.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 BKS = discord.Embed(title='브리키의 댄스(ブリキノダンス)', description='작곡, 작사, 편곡 : 양지전공', color=0xff9900)
 BKS.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-BKS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n텐마 츠카사, 카미시로 루이, 카가미네 렌(세카이 버전)\n\n텐마 츠카사(어나더 보컬 버전)\n\n카미시로 루이(어나더 보컬 버전)', inline=False)
+BKS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n텐마 츠카사, 카미시로 루이, 카가미네 렌(세카이 버전)\n\n텐마 츠카사(어나더 보컬 버전)\n\n카미시로 루이(어나더 보컬 버전)', inline=False)
 BKS.add_field(name='Easy - 8', value='노트 수 : 113\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0038/easy.png>)', inline=True)
 BKS.add_field(name='Normal - 13', value='노트 수 : 347\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0038/normal.png>)', inline=True)
 BKS.add_field(name='Hard - 18', value='노트 수 : 618\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0038/hard.png>)', inline=True)
@@ -233,7 +233,7 @@ BKS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 SM = discord.Embed(title='스위트 매직(スイートマジック, Sweet Magic)', description='작곡, 작사, 편곡 : Junky', color=0xff9900)
 SM.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-SM.add_field(name='보컬', value='카가미네 린(버츄얼 싱어 버전)\n\n하츠네 미쿠, 카가미네 린, 카가리네 렌, 메이코, 카이토(버츄얼 싱어 버전)\n\n원더랜즈x쇼타임, 카가미네 린(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)\n\n쿠사나기 네네(어나더 보컬 버전)', inline=False)
+SM.add_field(name='보컬', value='카가미네 린(버츄얼 버전)\n\n하츠네 미쿠, 카가미네 린, 카가리네 렌, 메이코, 카이토(버츄얼 버전)\n\n원더랜즈x쇼타임, 카가미네 린(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)\n\n쿠사나기 네네(어나더 보컬 버전)', inline=False)
 SM.add_field(name='Easy - 5', value='노트 수 : 151\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0041/easy.png>)', inline=True)
 SM.add_field(name='Normal - 12', value='노트 수 : 399\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0041/normal.png>)', inline=True)
 SM.add_field(name='Hard - 18', value='노트 수 : 659\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0041/hard.png>)', inline=True)
@@ -244,7 +244,7 @@ SM.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 NN = discord.Embed(title='넥스트 네스트(ネクストネスト, Next Nest)', description='작곡, 작사 : 오월 이 절정', color=0x39c5bb)
 NN.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-NN.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+NN.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 NN.add_field(name='Easy - 6', value='노트 수 : 122\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0043/easy.png>)', inline=True)
 NN.add_field(name='Normal - 13', value='노트 수 : 366\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0043/normal.png>)', inline=True)
 NN.add_field(name='Hard - 18', value='노트 수 : 715\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0043/hard.png>)', inline=True)
@@ -255,7 +255,7 @@ NN.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 HIH = discord.Embed(title='Hand in Hand', description='편곡, 작곡, 작사 : kz', color=0x39c5bb)
 HIH.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-HIH.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+HIH.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 HIH.add_field(name='Easy - 6', value='노트 수 : 165\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0044/easy.png>)', inline=True)
 HIH.add_field(name='Normal - 13', value='노트 수 : 427\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0044/normal.png>)', inline=True)
 HIH.add_field(name='Hard - 16', value='노트 수 : 637\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0044/hard.png>)', inline=True)
@@ -266,7 +266,7 @@ HIH.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 SKM = discord.Embed(title='39뮤직!(39みゅーじっく！, 39 Music!)', description='작곡, 작사 : 미키토P', color=0x39c5bb)
 SKM.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-SKM.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+SKM.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 SKM.add_field(name='Easy - 6', value='노트 수 : 139\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0045/easy.png>)', inline=True)
 SKM.add_field(name='Normal - 11', value='노트 수 : 339\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0045/normal.png>)', inline=True)
 SKM.add_field(name='Hard - 16', value='노트 수 : 539\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0045/hard.png>)', inline=True)
@@ -277,7 +277,7 @@ SKM.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 melt = discord.Embed(title='멜트(メルト, Melt)', description='편곡, 작곡, 작사 : ryo', color=0x39c5bb)
 melt.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-melt.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+melt.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 melt.add_field(name='Easy - 6', value='노트 수 : 286\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0047/easy.png>)', inline=True)
 melt.add_field(name='Normal - 11', value='노트 수 : 684\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0047/normal.png>)', inline=True)
 melt.add_field(name='Hard - 16', value='노트 수 : 1056\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0047/hard.png>)', inline=True)
@@ -288,7 +288,7 @@ melt.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 WIM = discord.Embed(title='월드 이즈 마인(ワールドイズマイン, World is Mine)', description='편곡, 작곡, 작사 : ryo', color=0x39c5bb)
 WIM.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-WIM.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+WIM.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 WIM.add_field(name='Easy - 7', value='노트 수 : 307\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0048/easy.png>)', inline=True)
 WIM.add_field(name='Normal - 13', value='노트 수 : 614\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0048/normal.png>)', inline=True)
 WIM.add_field(name='Hard - 17', value='노트 수 : 899\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0048/hard.png>)', inline=True)
@@ -299,7 +299,7 @@ WIM.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 BS = discord.Embed(title='Blessing', description='작곡, 작사 : halyosy', color=0x39c5bb)
 BS.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-BS.add_field(name='보컬', value='VIRTUAL SINGER(버츄얼 싱어 버전)', inline=False)
+BS.add_field(name='보컬', value='VIRTUAL SINGER(버츄얼 버전)', inline=False)
 BS.add_field(name='Easy - 5', value='노트 수 : 111\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0050/easy.png>)', inline=True)
 BS.add_field(name='Normal - 11', value='노트 수 : 347\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0050/normal.png>)', inline=True)
 BS.add_field(name='Hard - 16', value='노트 수 : 631\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0050/hard.png>)', inline=True)
@@ -310,7 +310,7 @@ BS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 SMHS = discord.Embed(title='세상은 아직 시작조차 하지 않았어(セカイはまだ始まってすらいない)', description='편곡, 작곡, 작사 : 피노키오피', color=0xff9900)
 SMHS.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-SMHS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n원더랜즈×쇼타임, 하츠네 미쿠(세카이 버전)\n\n텐마 츠카사, 오오토리 에무(어나더 보컬 버전)\n\n카미시로 루이, 쿠사나기 네네(어나더 보컬 버전)', inline=False)
+SMHS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n원더랜즈×쇼타임, 하츠네 미쿠(세카이 버전)\n\n텐마 츠카사, 오오토리 에무(어나더 보컬 버전)\n\n카미시로 루이, 쿠사나기 네네(어나더 보컬 버전)', inline=False)
 SMHS.add_field(name='Easy - 6', value='노트 수 : 122\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0051/easy.png>)', inline=True)
 SMHS.add_field(name='Normal - 13', value='노트 수 : 400\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0051/normal.png>)', inline=True)
 SMHS.add_field(name='Hard - 16', value='노트 수 : 565\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0051/hard.png>)', inline=True)
@@ -321,7 +321,7 @@ SMHS.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 PN = discord.Embed(title='potato가 되어가(potatoになっていく)', description='편곡, 작곡, 작사 : Neru', color=0xff9900)
 PN.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-PN.add_field(name='보컬', value='카가미네 린, 카가미네 렌(버츄얼 싱어 버전)\n\n카가미네 렌, 메이코, 메구리네 루카, 카이토, 하츠네 미쿠(버츄얼 싱어 버전)\n\n원더랜즈x쇼타임,하츠네 미쿠(세카이 버전)', inline=False)
+PN.add_field(name='보컬', value='카가미네 린, 카가미네 렌(버츄얼 버전)\n\n카가미네 렌, 메이코, 메구리네 루카, 카이토, 하츠네 미쿠(버츄얼 버전)\n\n원더랜즈x쇼타임,하츠네 미쿠(세카이 버전)', inline=False)
 PN.add_field(name='Easy - 5', value='노트 수 : 103\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0052/easy.png>)', inline=True)
 PN.add_field(name='Normal - 11', value='노트 수 : 243\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0052/normal.png>)', inline=True)
 PN.add_field(name='Hard - 17', value='노트 수 : 400\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0052/hard.png>)', inline=True)
@@ -332,7 +332,7 @@ PN.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 RS = discord.Embed(title='Ready Steady', description='편곡, 작곡 : Giga\n작사 : q*Left', color=0xee1166)
 RS.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-RS.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린, 카가미네 렌(버츄얼 싱어 버전)\n\nVivid BAD SQUAD,하츠네 미쿠(세카이 버전)', inline=False)
+RS.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린, 카가미네 렌(버츄얼 버전)\n\nVivid BAD SQUAD,하츠네 미쿠(세카이 버전)', inline=False)
 RS.add_field(name='Easy - 5', value='노트 수 : 96\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0054/easy.png>)', inline=True)
 RS.add_field(name='Normal - 10', value='노트 수 : 238\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0054/normal.png>)', inline=True)
 RS.add_field(name='Hard - 16', value='노트 수 : 403\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0054/hard.png>)', inline=True)
@@ -343,7 +343,7 @@ RS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 FW = discord.Embed(title='Forward', description='편곡, 작곡, 작사 : R Sound Design', color=0xee1166)
 FW.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-FW.add_field(name='보컬', value='카가미네 린, 메이코, 하츠네 미쿠, 카이토, 카가미네 렌(버츄얼 싱어 버전)\n\n하츠네 미쿠(버츄얼 싱어 버전)\n\nVivid BAD SQUAD,하츠네 미쿠(세카이 버전)\n\n시라이시 안, 아즈사와 코하네(어나더 보컬 버전)', inline=False)
+FW.add_field(name='보컬', value='카가미네 린, 메이코, 하츠네 미쿠, 카이토, 카가미네 렌(버츄얼 버전)\n\n하츠네 미쿠(버츄얼 버전)\n\nVivid BAD SQUAD,하츠네 미쿠(세카이 버전)\n\n시라이시 안, 아즈사와 코하네(어나더 보컬 버전)', inline=False)
 FW.add_field(name='Easy - 6', value='노트 수 : 141\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0055/easy.png>)', inline=True)
 FW.add_field(name='Normal - 11', value='노트 수 : 281\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0055/normal.png>)', inline=True)
 FW.add_field(name='Hard - 16', value='노트 수 : 449\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0055/hard.png>)', inline=True)
@@ -354,7 +354,7 @@ FW.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 AS = discord.Embed(title='아이돌 신예대(アイドル新鋭隊)', description='편곡, 작곡, 작사 : Mitchie M', color=0x88dd44)
 AS.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-AS.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린, 메구리네 루카, 메이코(버츄얼 싱어 버전)\n\nMORE MORE JUMP!, 하츠네 미쿠(세카이 버전)', inline=False)
+AS.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린, 메구리네 루카, 메이코(버츄얼 버전)\n\nMORE MORE JUMP!, 하츠네 미쿠(세카이 버전)', inline=False)
 AS.add_field(name='Easy - 8', value='노트 수 : 153\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0057/easy.png>)', inline=True)
 AS.add_field(name='Normal - 12', value='노트 수 : 343\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0057/normal.png>)', inline=True)
 AS.add_field(name='Hard - 17', value='노트 수 : 497\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0057/hard.png>)', inline=True)
@@ -387,7 +387,7 @@ phone.set_thumbnail(url="https://cdn.discordapp.com/attachments/8289593054788321
 
 JSG = discord.Embed(title='잭팟 새드 걸(ジャックポットサッドガール, Jackpot Sad Girl)', description='편곡, 작곡, 작사 : syudou', color=0x884499)
 JSG.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-JSG.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n25시, 나이트코드에서., 하츠네 미쿠(세카이 버전)\n\n아사히나 마후유(어나더 보컬 버전)', inline=False)
+JSG.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n25시, 나이트코드에서., 하츠네 미쿠(세카이 버전)\n\n아사히나 마후유(어나더 보컬 버전)', inline=False)
 JSG.add_field(name='Easy - 9', value='노트 수 : 206\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0062/easy.png>)', inline=True)
 JSG.add_field(name='Normal - 13', value='노트 수 : 258\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0062/normal.png>)', inline=True)
 JSG.add_field(name='Hard - 18', value='노트 수 : 491\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0062/hard.png>)', inline=True)
@@ -398,7 +398,7 @@ JSG.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 NDL = discord.Embed(title='needLe', description='편곡 : Rockwell\n작곡, 작사 : DECE*27', color=0x4455dd)
 NDL.add_field(name='유닛', value="Leo/need", inline=False)
-NDL.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\nLeo/need, 하츠네 미쿠(세카이 버전)\n\n모치즈키 호나미(어나더 보컬 버전)\n\n히노모리 시호(어나더 보컬 버전)\n\n텐마 사키(어나더 보컬 버전)', inline=False)
+NDL.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\nLeo/need, 하츠네 미쿠(세카이 버전)\n\n모치즈키 호나미(어나더 보컬 버전)\n\n히노모리 시호(어나더 보컬 버전)\n\n텐마 사키(어나더 보컬 버전)', inline=False)
 NDL.add_field(name='Easy - 7', value='노트 수 : 216\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0063/easy.png>)', inline=True)
 NDL.add_field(name='Normal - 12', value='노트 수 : 430\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0063/normal.png>)', inline=True)
 NDL.add_field(name='Hard - 17', value='노트 수 : 662\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0063/hard.png>)', inline=True)
@@ -420,7 +420,7 @@ STL.set_thumbnail(url="https://media.discordapp.net/attachments/8289593054788321
 
 HHAY = discord.Embed(title='헬로/하와유(ハロ／ハワユ, Hello/How Are You)', description='작곡, 작사 : 나노우', color=0x884499)
 HHAY.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-HHAY.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n아사히나 마후유, 시노노메 에나, 하츠네 미쿠(세카이 버전)', inline=False)
+HHAY.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n아사히나 마후유, 시노노메 에나, 하츠네 미쿠(세카이 버전)', inline=False)
 HHAY.add_field(name='Easy - 5', value='노트 수 : 104\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0066/easy.png>)', inline=True)
 HHAY.add_field(name='Normal - 10', value='노트 수 : 271\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0066/normal.png>)', inline=True)
 HHAY.add_field(name='Hard - 15', value='노트 수 : 501\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0066/hard.png>)', inline=True)
@@ -431,7 +431,7 @@ HHAY.set_thumbnail(url="https://media.discordapp.net/attachments/828959305478832
 
 JSMS = discord.Embed(title='자상무색(自傷無色)', description='작곡, 작사 : ねこぼーろ', color=0x884499)
 JSMS.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-JSMS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n하츠네 미쿠, 요이사키 카나데, 아사히나 마후유(세카이 버전)', inline=False)
+JSMS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n하츠네 미쿠, 요이사키 카나데, 아사히나 마후유(세카이 버전)', inline=False)
 JSMS.add_field(name='Easy - 5', value='노트 수 : 112\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0067/easy.png>)', inline=True)
 JSMS.add_field(name='Normal - 10', value='노트 수 : 291\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0067/normal.png>)', inline=True)
 JSMS.add_field(name='Hard - 17', value='노트 수 : 443\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0067/hard.png>)', inline=True)
@@ -442,7 +442,7 @@ JSMS.set_thumbnail(url="https://media.discordapp.net/attachments/828959305478832
 
 DRD = discord.Embed(title='댄스 로봇 댄스(ダンスロボットダンス, Dance Robot Dance)', description='편곡, 작곡, 작사 : 나유탄 성인', color=0xff9900)
 DRD.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-DRD.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n오오토리 에무, 쿠사나기 네네, 하츠네 미쿠(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)', inline=False)
+DRD.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n오오토리 에무, 쿠사나기 네네, 하츠네 미쿠(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)', inline=False)
 DRD.add_field(name='Easy - 8', value='노트 수 : 157\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0068/easy.png>)', inline=True)
 DRD.add_field(name='Normal - 13', value='노트 수 : 407\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0068/normal.png>)', inline=True)
 DRD.add_field(name='Hard - 18', value='노트 수 : 719\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0068/hard.png>)', inline=True)
@@ -453,7 +453,7 @@ DRD.set_thumbnail(url="https://media.discordapp.net/attachments/8289593054788321
 
 MLN = discord.Embed(title='멜티 랜드 나이트메어(メルティランドナイトメア, Melty Land Nightmare)', description='편곡, 작곡, 작사 : 하루마키 고항', color=0x88dd44)
 MLN.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-MLN.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\nMORE MORE JUMP!, 하츠네 미쿠(세카이 버전)', inline=False)
+MLN.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\nMORE MORE JUMP!, 하츠네 미쿠(세카이 버전)', inline=False)
 MLN.add_field(name='Easy - 6', value='노트 수 : 167\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0070/easy.png>)', inline=True)
 MLN.add_field(name='Normal - 12', value='노트 수 : 397\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0070/normal.png>)', inline=True)
 MLN.add_field(name='Hard - 17', value='노트 수 : 595\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0070/hard.png>)', inline=True)
@@ -464,7 +464,7 @@ MLN.set_thumbnail(url="https://media.discordapp.net/attachments/8289593054788321
 
 PS = discord.Embed(title='누덕누덕 스타카토(ツギハギスタッカート, Patchwork Staccato)', description='편곡, 작곡, 작사 : 토아', color=0x88dd44)
 PS.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-PS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n모모이 아이리, 히노모리 시즈쿠, 하츠네 미쿠(세카이 버전)', inline=False)
+PS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n모모이 아이리, 히노모리 시즈쿠, 하츠네 미쿠(세카이 버전)', inline=False)
 PS.add_field(name='Easy - 6', value='노트 수 : 168\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0071/easy.png>)', inline=True)
 PS.add_field(name='Normal - 11', value='노트 수 : 316\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0071/normal.png>)', inline=True)
 PS.add_field(name='Hard - 16', value='노트 수 : 583\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0071/hard.png>)', inline=True)
@@ -475,7 +475,7 @@ PS.set_thumbnail(url="https://media.discordapp.net/attachments/82895930547883219
 
 BYB = discord.Embed(title='블레스 유어 브레스(ブレス・ユア・ブレス, Bless Your Breath)', description='편곡, 작곡, 작사 : 와다 타케아키(쿠라게P)', color=0x39c5bb)
 BYB.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-BYB.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+BYB.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 BYB.add_field(name='Easy - 7', value='노트 수 : 157\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0072/easy.png>)', inline=True)
 BYB.add_field(name='Normal - 13', value='노트 수 : 361\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0072/normal.png>)', inline=True)
 BYB.add_field(name='Hard - 17', value='노트 수 : 511\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0072/hard.png>)', inline=True)
@@ -486,7 +486,7 @@ BYB.set_thumbnail(url="https://media.discordapp.net/attachments/8289593054788321
 
 near = discord.Embed(title='니아(ニア, Near)', description='작곡, 작사 : 나츠시로 타카아키', color=0x88dd44)
 near.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-near.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n하나사토 미노리, 키리타니 하루카, 하츠네 미쿠(세카이 버전)\n\n키리타니 하루카(어나더 보컬 버전)', inline=False)
+near.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n하나사토 미노리, 키리타니 하루카, 하츠네 미쿠(세카이 버전)\n\n키리타니 하루카(어나더 보컬 버전)', inline=False)
 near.add_field(name='Easy - 6', value='노트 수 : 139\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0073/easy.png>)', inline=True)
 near.add_field(name='Normal - 11', value='노트 수 : 266\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0073/normal.png>)', inline=True)
 near.add_field(name='Hard - 16', value='노트 수 : 517\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0073/hard.png>)', inline=True)
@@ -497,7 +497,7 @@ near.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 HSE = discord.Embed(title='혼자 놀이 엔비(独りんぼエンヴィー, Solitary Hide & Seek Envy)', description='작곡, 작사 : koyori', color=0x884499)
 HSE.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-HSE.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n하츠네 미쿠, 카가미네 린, 메구리네 루카(버츄얼 싱어 버전)\n\n요이사키 카나데, 아키야마 미즈키, 하츠네 미쿠(세카이 버전)\n\n요이사키 카나데(어나더 보컬 버전)\n\n아키야마 미즈키(어나더 보컬 버전)', inline=False)
+HSE.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n하츠네 미쿠, 카가미네 린, 메구리네 루카(버츄얼 버전)\n\n요이사키 카나데, 아키야마 미즈키, 하츠네 미쿠(세카이 버전)\n\n요이사키 카나데(어나더 보컬 버전)\n\n아키야마 미즈키(어나더 보컬 버전)', inline=False)
 HSE.add_field(name='Easy - 6', value='노트 수 : 74\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0074/easy.png>)', inline=True)
 HSE.add_field(name='Normal - 11', value='노트 수 : 171\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0074/normal.png>)', inline=True)
 HSE.add_field(name='Hard - 16', value='노트 수 : 356\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0074/hard.png>)', inline=True)
@@ -508,7 +508,7 @@ HSE.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 GH = discord.Embed(title='갯나리 해저담(ウミユリ海底譚)', description='작곡, 작사 : n-buna', color=0x4455dd)
 GH.add_field(name='유닛', value="Leo/need", inline=False)
-GH.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n호시노 이치카, 모치즈키 호나미, 하츠네 미쿠(세카이 버전)', inline=False)
+GH.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n호시노 이치카, 모치즈키 호나미, 하츠네 미쿠(세카이 버전)', inline=False)
 GH.add_field(name='Easy - 6', value='노트 수 : 119\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0075/easy.png>)', inline=True)
 GH.add_field(name='Normal - 13', value='노트 수 : 287\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0075/normal.png>)', inline=True)
 GH.add_field(name='Hard - 17', value='노트 수 : 497\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0075/hard.png>)', inline=True)
@@ -519,7 +519,7 @@ GH.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 sekai = discord.Embed(title='세카이(セカイ,SEKAI)', description='편곡 : Rockwell\n작곡 : kemu\n작사 : DECO*27', color=0x39c5bb)
 sekai.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-sekai.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n호시노 이치카, 텐마 츠카사, 요이사키 카나데, 하츠네 미쿠(세카이 버전)', inline=False)
+sekai.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n호시노 이치카, 텐마 츠카사, 요이사키 카나데, 하츠네 미쿠(세카이 버전)', inline=False)
 sekai.add_field(name='Easy - 6', value='노트 수 : 143\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0076/easy.png>)', inline=True)
 sekai.add_field(name='Normal - 12', value='노트 수 : 400\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0076/normal.png>)', inline=True)
 sekai.add_field(name='Hard - 18', value='노트 수 : 549\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0076/hard.png>)', inline=True)
@@ -530,7 +530,7 @@ sekai.set_thumbnail(url="https://cdn.discordapp.com/attachments/8289593054788321
 
 WWW = discord.Embed(title='와-와-월드(ワーワーワールド,Wah Wah World)', description='편곡 : Giga\n작곡 : Giga, Mitchie M\n작사 : Mitchie M', color=0x39c5bb)
 WWW.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-WWW.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린(버츄얼 싱어 버전)\n\n하나사토 미노리, 아즈사와 코하네, 하츠네 미쿠(세카이 버전)', inline=False)
+WWW.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린(버츄얼 버전)\n\n하나사토 미노리, 아즈사와 코하네, 하츠네 미쿠(세카이 버전)', inline=False)
 WWW.add_field(name='Easy - 7', value='노트 수 : 127\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0077/easy.png>)', inline=True)
 WWW.add_field(name='Normal - 12', value='노트 수 : 343\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0077/normal.png>)', inline=True)
 WWW.add_field(name='Hard - 17', value='노트 수 : 519\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0077/hard.png>)', inline=True)
@@ -541,7 +541,7 @@ WWW.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 MSS = discord.Embed(title='모험의 서가 사라졌습니다!(ぼうけんのしょがきえました！)', description='작곡, 작사 : 지저스P', color=0xff9900)
 MSS.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-MSS.add_field(name='보컬', value='카가미네 린, 카가미네 렌(버츄얼 싱어 버전)\n\n텐마 츠카사, 오오토리 에무, 카가미네 린, 카가미네 렌(세카이 버전)', inline=False)
+MSS.add_field(name='보컬', value='카가미네 린, 카가미네 렌(버츄얼 버전)\n\n텐마 츠카사, 오오토리 에무, 카가미네 린, 카가미네 렌(세카이 버전)', inline=False)
 MSS.add_field(name='Easy - 8', value='노트 수 : 278\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0078/easy.png>)', inline=True)
 MSS.add_field(name='Normal - 13', value='노트 수 : 472\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0078/normal.png>)', inline=True)
 MSS.add_field(name='Hard - 19', value='노트 수 : 711\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0078/hard.png>)', inline=True)
@@ -552,7 +552,7 @@ MSS.set_thumbnail(url="https://media.discordapp.net/attachments/8289593054788321
 
 YD = discord.Embed(title='야화 디세이브(夜咄ディセイブ)', description='편곡, 작곡, 작사 : 진(자연의 적P)', color=0xee1166)
 YD.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-YD.add_field(name='보컬', value='IA(버츄얼 싱어 버전)\n\n시노노메 아키토, 아오야기 토우야(세카이 버전)\n\n시노노메 아키토(어나더 보컬 버전)\n\n아오야기 토우야(어나더 보컬 버전)', inline=False)
+YD.add_field(name='보컬', value='IA(버츄얼 버전)\n\n시노노메 아키토, 아오야기 토우야(세카이 버전)\n\n시노노메 아키토(어나더 보컬 버전)\n\n아오야기 토우야(어나더 보컬 버전)', inline=False)
 YD.add_field(name='Easy - 8', value='노트 수 : 164\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0081/easy.png>)', inline=True)
 YD.add_field(name='Normal - 14', value='노트 수 : 424\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0081/normal.png>)', inline=True)
 YD.add_field(name='Hard - 19', value='노트 수 : 851\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0081/hard.png>)', inline=True)
@@ -563,7 +563,7 @@ YD.set_thumbnail(url="https://media.discordapp.net/attachments/82895930547883219
 
 alive = discord.Embed(title='alive', description='작곡, 작사 : 이치노세 루포', color=0x39c5bb)
 alive.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-alive.add_field(name='보컬', value='카가미네 린(버츄얼 싱어 버전)', inline=False)
+alive.add_field(name='보컬', value='카가미네 린(버츄얼 버전)', inline=False)
 alive.add_field(name='Easy - 6', value='노트 수 : 134\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0082/easy.png>)', inline=True)
 alive.add_field(name='Normal - 11', value='노트 수 : 341\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0082/normal.png>)', inline=True)
 alive.add_field(name='Hard - 16', value='노트 수 : 593\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0082/hard.png>)', inline=True)
@@ -574,7 +574,7 @@ alive.set_thumbnail(url="https://media.discordapp.net/attachments/82895930547883
 
 GG = discord.Embed(title='Gimme×Gimme', description='작곡 : 하치오지P, Giga\n작사 : q*Left', color=0x39c5bb)
 GG.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-GG.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린(버츄얼 싱어 버전)', inline=False)
+GG.add_field(name='보컬', value='하츠네 미쿠, 카가미네 린(버츄얼 버전)', inline=False)
 GG.add_field(name='Easy - 6', value='노트 수 : 137\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0083/easy.png>)', inline=True)
 GG.add_field(name='Normal - 11', value='노트 수 : 348\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0083/normal.png>)', inline=True)
 GG.add_field(name='Hard - 18', value='노트 수 : 613\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0083/hard.png>)', inline=True)
@@ -585,7 +585,7 @@ GG.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 JNTO = discord.Embed(title='정키 나이트 타운 오케스트라(ジャンキーナイトタウンオーケストラ)', description='작곡, 작사 : 스리이', color=0x39c5bb)
 JNTO.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-JNTO.add_field(name='보컬', value='카가미네 렌(버츄얼 싱어 버전)', inline=False)
+JNTO.add_field(name='보컬', value='카가미네 렌(버츄얼 버전)', inline=False)
 JNTO.add_field(name='Easy - 6', value='노트 수 : 152\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0084/easy.png>)', inline=True)
 JNTO.add_field(name='Normal - 13', value='노트 수 : 465\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0084/normal.png>)', inline=True)
 JNTO.add_field(name='Hard - 18', value='노트 수 : 740\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0084/hard.png>)', inline=True)
@@ -596,7 +596,7 @@ JNTO.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 leia = discord.Embed(title='Leia - Remind', description='편곡, 작곡, 작사 : 유요윳페', color=0x39c5bb)
 leia.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-leia.add_field(name='보컬', value='메구리네 루카(버츄얼 싱어 버전)', inline=False)
+leia.add_field(name='보컬', value='메구리네 루카(버츄얼 버전)', inline=False)
 leia.add_field(name='Easy - 9', value='노트 수 : 183\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0085/easy.png>)', inline=True)
 leia.add_field(name='Normal - 13', value='노트 수 : 372\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0085/normal.png>)', inline=True)
 leia.add_field(name='Hard - 18', value='노트 수 : 587\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0085/hard.png>)', inline=True)
@@ -607,7 +607,7 @@ leia.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
         
 OTR = discord.Embed(title='on the rocks', description='작곡, 작사 : OSTER project', color=0x39c5bb)
 OTR.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-OTR.add_field(name='보컬', value='메이코, 카이토(버츄얼 싱어 버전)', inline=False)
+OTR.add_field(name='보컬', value='메이코, 카이토(버츄얼 버전)', inline=False)
 OTR.add_field(name='Easy - 7', value='노트 수 : 169\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0086/easy.png>)', inline=True)
 OTR.add_field(name='Normal - 11', value='노트 수 : 425\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0086/normal.png>)', inline=True)
 OTR.add_field(name='Hard - 16', value='노트 수 : 565\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0086/hard.png>)', inline=True)
@@ -618,7 +618,7 @@ OTR.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 YEJP = discord.Embed(title='연애재판(恋愛裁判)', description='편곡, 작곡, 작사 : 40mP', color=0x88dd44)
 YEJP.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-YEJP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n하나사토 미노리, 모모이 아이리, 하츠네 미쿠(세카이 버전)\n\n하나사토 미노리(어나더 보컬 버전)\n\n모모이 아이리(어나더 보컬 버전)', inline=False)
+YEJP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n하나사토 미노리, 모모이 아이리, 하츠네 미쿠(세카이 버전)\n\n하나사토 미노리(어나더 보컬 버전)\n\n모모이 아이리(어나더 보컬 버전)', inline=False)
 YEJP.add_field(name='Easy - 6', value='노트 수 : 174\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0087/easy.png>)', inline=True)
 YEJP.add_field(name='Normal - 12', value='노트 수 : 447\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0087/normal.png>)', inline=True)
 YEJP.add_field(name='Hard - 17', value='노트 수 : 591\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0087/hard.png>)', inline=True)
@@ -640,7 +640,7 @@ CCD.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 COD = discord.Embed(title='Color of Drops', description='편곡, 작곡, 작사 : 40mP', color=0x88dd44)
 COD.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-COD.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\nMORE MORE JUMP!, 메구리네 루카(세카이 버전)\n\n키리타니 하루카(어나더 보컬 버전)\n\n히노모리 시즈쿠(어나더 보컬 버전)', inline=False)
+COD.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\nMORE MORE JUMP!, 메구리네 루카(세카이 버전)\n\n키리타니 하루카(어나더 보컬 버전)\n\n히노모리 시즈쿠(어나더 보컬 버전)', inline=False)
 COD.add_field(name='Easy - 6', value='노트 수 : 182\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0089/easy.png>)', inline=True)
 COD.add_field(name='Normal - 12', value='노트 수 : 392\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0089/normal.png>)', inline=True)
 COD.add_field(name='Hard - 16', value='노트 수 : 537\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0089/hard.png>)', inline=True)
@@ -651,7 +651,7 @@ COD.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 GJ = discord.Embed(title='끝없이 잿빛으로(限りなく灰色へ)', description='편곡, 작곡, 작사 : 스리이', color=0x884499)
 GJ.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-GJ.add_field(name='보컬', value='카가미네 렌(버츄얼 싱어 버전)\n\n25시, 나이트코드에서., 카가미네 린(세카이 버전)\n\n시노노메 에나(어나더 보컬 버전)\n\n카가미네 린(어나더 보컬 버전)', inline=False)
+GJ.add_field(name='보컬', value='카가미네 렌(버츄얼 버전)\n\n25시, 나이트코드에서., 카가미네 린(세카이 버전)\n\n시노노메 에나(어나더 보컬 버전)\n\n카가미네 린(어나더 보컬 버전)', inline=False)
 GJ.add_field(name='Easy - 6', value='노트 수 : 108\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0090/easy.png>)', inline=True)
 GJ.add_field(name='Normal - 12', value='노트 수 : 227\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0090/normal.png>)', inline=True)
 GJ.add_field(name='Hard - 18', value='노트 수 : 470\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0090/hard.png>)', inline=True)
@@ -662,7 +662,7 @@ GJ.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 DR = discord.Embed(title='드라마트 루기(ドラマツルギー)', description='편곡 : Numa\n작곡, 작사 : Eve', color=0x4455dd)
 DR.add_field(name='유닛', value="Leo/need", inline=False)
-DR.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n호시노 이치카, 하츠네 미쿠(세카이 버전)\n\n호시노 이치카(어나더 보컬 버전)', inline=False)
+DR.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n호시노 이치카, 하츠네 미쿠(세카이 버전)\n\n호시노 이치카(어나더 보컬 버전)', inline=False)
 DR.add_field(name='Easy - 7', value='노트 수 : 116\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0091/easy.png>)', inline=True)
 DR.add_field(name='Normal - 12', value='노트 수 : 584\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0091/normal.png>)', inline=True)
 DR.add_field(name='Hard - 17', value='노트 수 : 515\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0091/hard.png>)', inline=True)
@@ -673,7 +673,7 @@ DR.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 SNHB = discord.Embed(title='소녀해부(乙女解剖)', description='편곡 : emon(Tes.), Rockwell\n작곡, 작사 : DECO*27', color=0x884499)
 SNHB.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-SNHB.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n아사히나 마후유, 아키야마 미즈키, 하츠네 미쿠(세카이 버전)\n\n아사히나 마후유(어나더 보컬 버전)', inline=False)
+SNHB.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n아사히나 마후유, 아키야마 미즈키, 하츠네 미쿠(세카이 버전)\n\n아사히나 마후유(어나더 보컬 버전)', inline=False)
 SNHB.add_field(name='Easy - 5', value='노트 수 : 177\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0092/easy.png>)', inline=True)
 SNHB.add_field(name='Normal - 12', value='노트 수 : 359\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0092/normal.png>)', inline=True)
 SNHB.add_field(name='Hard - 16', value='노트 수 : 509\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0092/hard.png>)', inline=True)
@@ -695,7 +695,7 @@ FD.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 NAAS = discord.Embed(title='너무 아파 아프고 싶어(とても痛い痛がりたい)', description='편곡, 작곡, 작사 : EZFG', color=0x884499)
 NAAS.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-NAAS.add_field(name='보컬', value='VY2V3(버츄얼 싱어 버전)\n\n아사히나 마후유, 시노노메 에나, 하츠네 미쿠(세카이 버전)', inline=False)
+NAAS.add_field(name='보컬', value='VY2V3(버츄얼 버전)\n\n아사히나 마후유, 시노노메 에나, 하츠네 미쿠(세카이 버전)', inline=False)
 NAAS.add_field(name='Easy - 8', value='노트 수 : 201\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0094/easy.png>)', inline=True)
 NAAS.add_field(name='Normal - 13', value='노트 수 : 353\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0094/normal.png>)', inline=True)
 NAAS.add_field(name='Hard - 18', value='노트 수 : 590\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0094/hard.png>)', inline=True)
@@ -706,7 +706,7 @@ NAAS.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 WFDD = discord.Embed(title='위풍당당(威風堂々)', description='편곡, 작곡, 작사 : 우메토라', color=0xee1166)
 WFDD.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-WFDD.add_field(name='보컬', value='메구리네 루카, 하츠네 미쿠, GUMI, IA, 카가미네 린(버츄얼 싱어 버전)\n\n시노노메 아키토, 아오야기 토우야, 카이토(세카이 버전)\n\n시노노메 아키토(어나더 보컬 버전)\n\n아오야기 토우야(어나더 보컬 버전)\n\n카이토(어나더 보컬 버전)', inline=False)
+WFDD.add_field(name='보컬', value='메구리네 루카, 하츠네 미쿠, GUMI, IA, 카가미네 린(버츄얼 버전)\n\n시노노메 아키토, 아오야기 토우야, 카이토(세카이 버전)\n\n시노노메 아키토(어나더 보컬 버전)\n\n아오야기 토우야(어나더 보컬 버전)\n\n카이토(어나더 보컬 버전)', inline=False)
 WFDD.add_field(name='Easy - 6', value='노트 수 : 188\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0095/easy.png>)', inline=True)
 WFDD.add_field(name='Normal - 12', value='노트 수 : 326\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0095/normal.png>)', inline=True)
 WFDD.add_field(name='Hard - 17', value='노트 수 : 604\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0095/hard.png>)', inline=True)
@@ -717,7 +717,7 @@ WFDD.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 FYTY = discord.Embed(title='from Y to Y', description='작곡, 작사 : 지미섬P', color=0x4455dd)
 FYTY.add_field(name='유닛', value="Leo/need", inline=False)
-FYTY.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\nLeo/need, 하츠네 미쿠(세카이 버전)\n\n텐마 사키, 히노모리 시호(어나더 보컬 버전)\n\n호시노 이치카, 모치즈키 호나미(어나더 보컬 버전)', inline=False)
+FYTY.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\nLeo/need, 하츠네 미쿠(세카이 버전)\n\n텐마 사키, 히노모리 시호(어나더 보컬 버전)\n\n호시노 이치카, 모치즈키 호나미(어나더 보컬 버전)', inline=False)
 FYTY.add_field(name='Easy - 5', value='노트 수 : 196\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0096/easy.png>)', inline=True)
 FYTY.add_field(name='Normal - 11', value='노트 수 : 284\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0096/normal.png>)', inline=True)
 FYTY.add_field(name='Hard - 16', value='노트 수 : 551\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0096/hard.png>)', inline=True)
@@ -728,7 +728,7 @@ FYTY.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 NGG = discord.Embed(title='날이 개길 기다려(霽れを待つ)', description='편곡, 작곡, 작사 : Orangestar', color=0x4455dd)
 NGG.add_field(name='유닛', value="Leo/need", inline=False)
-NGG.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\nLeo/need, 하츠네 미쿠(세카이 버전)\n\n모치즈키 호나미(어나더 보컬 버전)\n\n텐마 사키(어나더 보컬 버전)', inline=False)
+NGG.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\nLeo/need, 하츠네 미쿠(세카이 버전)\n\n모치즈키 호나미(어나더 보컬 버전)\n\n텐마 사키(어나더 보컬 버전)', inline=False)
 NGG.add_field(name='Easy - 7', value='노트 수 : 192\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0097/easy.png>)', inline=True)
 NGG.add_field(name='Normal - 12', value='노트 수 : 461\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0097/normal.png>)', inline=True)
 NGG.add_field(name='Hard - 17', value='노트 수 : 562\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0097/hard.png>)', inline=True)
@@ -750,7 +750,7 @@ MJM.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 echo = discord.Embed(title='ECHO', description='작곡, 작사 : Crusher-P', color=0xee1166)
 echo.add_field(name='유닛', value="Vivid BAD SQUAD", inline=False)
-echo.add_field(name='보컬', value='GUMI(버츄얼 싱어 버전)\n\nVivid BAD SQUAD, 메구리네 루카(세카이 버전)', inline=False)
+echo.add_field(name='보컬', value='GUMI(버츄얼 버전)\n\nVivid BAD SQUAD, 메구리네 루카(세카이 버전)', inline=False)
 echo.add_field(name='Easy - 6', value='노트 수 : 157\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0100/easy.png>)', inline=True)
 echo.add_field(name='Normal - 12', value='노트 수 : 279\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0100/normal.png>)', inline=True)
 echo.add_field(name='Hard - 16', value='노트 수 : 404\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0100/hard.png>)', inline=True)
@@ -772,7 +772,7 @@ RD.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 MS = discord.Embed(title='무지갯빛 스토리즈(ニジイロストーリーズ)', description='편곡, 작곡, 작사 : OSTER project', color=0xff9900)
 MS.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-MS.add_field(name='보컬', value='VIRTUAL SINGER(버츄얼 싱어 버전)\n\n쿠사나기 네네, 카미시로 루이, 메이코, 카이토(세카이 버전)\n\n쿠사나기 네네, 카미시로 루이(어나더 보컬 버전)\n\n메이코, 카이토(어나더 보컬 버전)', inline=False)
+MS.add_field(name='보컬', value='VIRTUAL SINGER(버츄얼 버전)\n\n쿠사나기 네네, 카미시로 루이, 메이코, 카이토(세카이 버전)\n\n쿠사나기 네네, 카미시로 루이(어나더 보컬 버전)\n\n메이코, 카이토(어나더 보컬 버전)', inline=False)
 MS.add_field(name='Easy - 9', value='노트 수 : 284\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0103/easy.png>)', inline=True)
 MS.add_field(name='Normal - 13', value='노트 수 : 428\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0103/normal.png>)', inline=True)
 MS.add_field(name='Hard - 18', value='노트 수 : 673\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0103/hard.png>)', inline=True)
@@ -783,7 +783,7 @@ MS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 OUAD = discord.Embed(title='원스 어폰 어 드림(ワンスアポンアドリーム, once upon a dream)', description='편곡, 작곡, 작사 : YASUHIRO', color=0xff9900)
 OUAD.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-OUAD.add_field(name='보컬', value='원더랜즈×쇼타임, 카가미네 렌(세카이 버전)', inline=False)
+OUAD.add_field(name='보컬', value='카가미네 린(버츄얼 버전)\n\n원더랜즈×쇼타임, 카가미네 렌(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)', inline=False)
 OUAD.add_field(name='Easy - 6', value='노트 수 : 161\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0105/easy.png>)', inline=True)
 OUAD.add_field(name='Normal - 11', value='노트 수 : 264\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0105/normal.png>)', inline=True)
 OUAD.add_field(name='Hard - 16', value='노트 수 : 478\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0105/hard.png>)', inline=True)
@@ -794,7 +794,7 @@ OUAD.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 MDD = discord.Embed(title='마음에 드시는 대로(お気に召すまま)', description='편곡 : Numa\n작곡, 작사 : Eve', color=0xff9900)
 MDD.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-MDD.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n원더랜즈×쇼타임, 카가미네 렌(세카이 버전)\n\n카미시로 루이(어나더 보컬)', inline=False)
+MDD.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n원더랜즈×쇼타임, 카가미네 렌(세카이 버전)\n\n카미시로 루이(어나더 보컬 버전)', inline=False)
 MDD.add_field(name='Easy - 6', value='노트 수 : 151\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0106/easy.png>)', inline=True)
 MDD.add_field(name='Normal - 12', value='노트 수 : 339\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0106/normal.png>)', inline=True)
 MDD.add_field(name='Hard - 18', value='노트 수 : 583\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0106/hard.png>)', inline=True)
@@ -805,7 +805,7 @@ MDD.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 MCOS = discord.Embed(title='밀크크라운・온・소네치카(ミルククラウン・オン・ソーネチカ, Milk Crown on Sonechka)', description='편곡, 작곡, 작사 : 유지', color=0x88dd44)
 MCOS.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-MCOS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\n하나사토 미노리, 히노모리 시즈쿠, 하츠네 미쿠(세카이 버전)\n\n하나사토 미노리(어나더 보컬)\n\n히노모리 시즈쿠(어나더 보컬)', inline=False)
+MCOS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n하나사토 미노리, 히노모리 시즈쿠, 하츠네 미쿠(세카이 버전)\n\n하나사토 미노리(어나더 보컬 버전)\n\n히노모리 시즈쿠(어나더 보컬 버전)', inline=False)
 MCOS.add_field(name='Easy - 7', value='노트 수 : 163\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0107/easy.png>)', inline=True)
 MCOS.add_field(name='Normal - 13', value='노트 수 : 497\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0107/normal.png>)', inline=True)
 MCOS.add_field(name='Hard - 18', value='노트 수 : 752\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0107/hard.png>)', inline=True)
@@ -816,7 +816,7 @@ MCOS.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 SMNI = discord.Embed(title='사랑받지 못해도 네가 있어(愛されなくても君がいる)', description='편곡, 작곡, 작사 : 피노키오피', color=0x39c5bb)
 SMNI.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-SMNI.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+SMNI.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 SMNI.add_field(name='Easy - 7', value='노트 수 : 194\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0108/easy.png>)', inline=True)
 SMNI.add_field(name='Normal - 12', value='노트 수 : 407\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0108/normal.png>)', inline=True)
 SMNI.add_field(name='Hard - 16', value='노트 수 : 589\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0108/hard.png>)', inline=True)
@@ -827,7 +827,7 @@ SMNI.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 HBKS = discord.Embed(title='울려퍼져라(ヒビカセ)', description='편곡, 작곡 : 기가P\n작사 : 레오루', color=0x39c5bb)
 HBKS.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-HBKS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+HBKS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 HBKS.add_field(name='Easy - 7', value='노트 수 : 146\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0109/easy.png>)', inline=True)
 HBKS.add_field(name='Normal - 12', value='노트 수 : 292\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0109/normal.png>)', inline=True)
 HBKS.add_field(name='Hard - 17', value='노트 수 : 572\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0109/hard.png>)', inline=True)
@@ -838,7 +838,7 @@ HBKS.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 SBZKR = discord.Embed(title='천본앵(千本桜, Senbonzakura)', description='편곡, 작곡, 작사 : 흑토끼P', color=0x39c5bb)
 SBZKR.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-SBZKR.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)\n\nVIRTUAL SINGER(버쥬얼 싱어 버전)', inline=False)
+SBZKR.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\nVIRTUAL SINGER(버쥬얼 싱어 버전)', inline=False)
 SBZKR.add_field(name='Easy - 7', value='노트 수 : 206\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0110/easy.png>)', inline=True)
 SBZKR.add_field(name='Normal - 14', value='노트 수 : 427\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0110/normal.png>)', inline=True)
 SBZKR.add_field(name='Hard - 19', value='노트 수 : 777\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0110/hard.png>)', inline=True)
@@ -849,7 +849,7 @@ SBZKR.set_thumbnail(url="https://cdn.discordapp.com/attachments/8289593054788321
 
 TC = discord.Embed(title='천사의 클로버(天使のクローバー)', description='편곡, 작곡, 작사 : DIVELA', color=0x88dd44)
 TC.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-TC.add_field(name='보컬', value='카가미네 린(버츄얼 싱어 버전)\n\nMORE MORE JUMP!, 카가미네 린(세카이 버전)\n\n하나사토 미노리(어나더 보컬 버전)\n\n모모이 아이리(어나더 보컬 버전)', inline=False)
+TC.add_field(name='보컬', value='카가미네 린(버츄얼 버전)\n\nMORE MORE JUMP!, 카가미네 린(세카이 버전)\n\n하나사토 미노리(어나더 보컬 버전)\n\n모모이 아이리(어나더 보컬 버전)', inline=False)
 TC.add_field(name='Easy - 9', value='노트 수 : 212\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0112/easy.png>)', inline=True)
 TC.add_field(name='Normal - 13', value='노트 수 : 390\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0112/normal.png>)', inline=True)
 TC.add_field(name='Hard - 17', value='노트 수 : 636\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0112/hard.png>)', inline=True)
@@ -860,7 +860,7 @@ TC.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 RG = discord.Embed(title='롤링 걸(ローリンガール, Rollin Girl)', description='편곡, 작곡, 작사 : wowaka', color=0x39c5bb)
 RG.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-RG.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+RG.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 RG.add_field(name='Easy - 8', value='노트 수 : 235\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0113/easy.png>)', inline=True)
 RG.add_field(name='Normal - 12', value='노트 수 : 293\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0113/normal.png>)', inline=True)
 RG.add_field(name='Hard - 18', value='노트 수 : 776\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0113/hard.png>)', inline=True)
@@ -871,7 +871,7 @@ RG.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 GSL = discord.Embed(title='겉과 속의 러버즈(裏表ラバーズ)', description='편곡, 작곡, 작사 : wowaka', color=0x39c5bb)
 GSL.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-GSL.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+GSL.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 GSL.add_field(name='Easy - 8', value='노트 수 : 152\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0114/easy.png>)', inline=True)
 GSL.add_field(name='Normal - 12', value='노트 수 : 304\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0114/normal.png>)', inline=True)
 GSL.add_field(name='Hard - 18', value='노트 수 : 615\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0114/hard.png>)', inline=True)
@@ -882,7 +882,7 @@ GSL.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 OE = discord.Embed(title='ODDS&ENDS', description='편곡, 작곡, 작사 : ryo', color=0x39c5bb)
 OE.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-OE.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+OE.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 OE.add_field(name='Easy - 8', value='노트 수 : 199\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0117/easy.png>)', inline=True)
 OE.add_field(name='Normal - 12', value='노트 수 : 310\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0117/normal.png>)', inline=True)
 OE.add_field(name='Hard - 18', value='노트 수 : 509\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0117/hard.png>)', inline=True)
@@ -893,7 +893,7 @@ OE.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 HP = discord.Embed(title='*헬로, 플래닛.(＊ハロー、プラネット。)', description='편곡, 작곡, 작사 : sasakure.UK', color=0x39c5bb)
 HP.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-HP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+HP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 HP.add_field(name='Easy - 6', value='노트 수 : 219\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0118/easy.png>)', inline=True)
 HP.add_field(name='Normal - 10', value='노트 수 : 343\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0118/normal.png>)', inline=True)
 HP.add_field(name='Hard - 17', value='노트 수 : 730\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0118/hard.png>)', inline=True)
@@ -904,7 +904,7 @@ HP.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/
 
 WEDH = discord.Embed(title='월즈 엔드・댄스홀(ワールズエンド・ダンスホール, World\'s End Dance Hall)', description='편곡, 작곡, 작사 : wowaka', color=0x39c5bb)
 WEDH.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-WEDH.add_field(name='보컬', value='하츠네 미쿠, 메구리네 루카(버츄얼 싱어 버전)', inline=False)
+WEDH.add_field(name='보컬', value='하츠네 미쿠, 메구리네 루카(버츄얼 버전)', inline=False)
 WEDH.add_field(name='Easy - 7', value='노트 수 : 131\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0119/easy.png>)', inline=True)
 WEDH.add_field(name='Normal - 12', value='노트 수 : 233\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0119/normal.png>)', inline=True)
 WEDH.add_field(name='Hard - 18', value='노트 수 : 694\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0119/hard.png>)', inline=True)
@@ -915,7 +915,7 @@ WEDH.set_thumbnail(url="https://cdn.discordapp.com/attachments/82895930547883219
 
 PDT = discord.Embed(title='포지티브☆댄스타임(ポジティブ☆ダンスタイム, Positive☆Dance Time)', description='편곡, 작곡, 작사 : 키노시타', color=0xff9900)
 PDT.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
-PDT.add_field(name='보컬', value='오토마치 우나, 카가미네 린(버츄얼 싱어 버전)\n\n오오토리 에무, 쿠사나기 네네, 카가미네 린(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)\n\n쿠사나기 네네(어나더 보컬 버전)', inline=False)
+PDT.add_field(name='보컬', value='오토마치 우나, 카가미네 린(버츄얼 버전)\n\n오오토리 에무, 쿠사나기 네네, 카가미네 린(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)\n\n쿠사나기 네네(어나더 보컬 버전)', inline=False)
 PDT.add_field(name='Easy - 9', value='노트 수 : 201\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0122/easy.png>)', inline=True)
 PDT.add_field(name='Normal - 14', value='노트 수 : 507\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0122/normal.png>)', inline=True)
 PDT.add_field(name='Hard - 18', value='노트 수 : 637\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0122/hard.png>)', inline=True)
@@ -926,7 +926,7 @@ PDT.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 DCC = discord.Embed(title='드리밍 츄츄(どりーみんチュチュ, Dreaming Chu Chu)', description='편곡, 작곡, 작사 : emon(Tes.)', color=0x88dd44)
 DCC.add_field(name='유닛', value="MORE MORE JUMP!", inline=False)
-DCC.add_field(name='보컬', value='메구리네 루카(버츄얼 싱어 버전)\n\nMORE MORE JUMP!, 메구리네 루카(세카이 버전)\n\n키리나티 하루카(어나더 보컬 버전)\n\n모모이 아이리(어나더 보컬 버전)\n\n히노모리 시즈쿠(어나더 보컬 버전)', inline=False)
+DCC.add_field(name='보컬', value='메구리네 루카(버츄얼 버전)\n\nMORE MORE JUMP!, 메구리네 루카(세카이 버전)\n\n키리나티 하루카(어나더 보컬 버전)\n\n모모이 아이리(어나더 보컬 버전)\n\n히노모리 시즈쿠(어나더 보컬 버전)', inline=False)
 DCC.add_field(name='Easy - 6', value='노트 수 : 225\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0123/easy.png>)', inline=True)
 DCC.add_field(name='Normal - 13', value='노트 수 : 367\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0123/normal.png>)', inline=True)
 DCC.add_field(name='Hard - 17', value='노트 수 : 567\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0123/hard.png>)', inline=True)
@@ -937,7 +937,7 @@ DCC.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 MMS = discord.Embed(title='미쿠미쿠하게 해줄게♪(みくみくにしてあげる♪)', description='편곡, 작곡, 작사 : ika', color=0x39c5bb)
 MMS.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-MMS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+MMS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 MMS.add_field(name='Easy - 7', value='노트 수 : 1**39**\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0124/easy.png>)', inline=True)
 MMS.add_field(name='Normal - 12', value='노트 수 : 3**39**\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0124/normal.png>)', inline=True)
 MMS.add_field(name='Hard - 17', value='노트 수 : 4**39**\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0124/hard.png>)', inline=True)
@@ -948,7 +948,7 @@ MMS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 BDV = discord.Embed(title='보카 델라 베리타(ボッカデラベリタ, Bocca Della Verità)', description='편곡, 작곡, 작사 : 히이라기 키라이', color=0x884499)
 BDV.add_field(name='유닛', value="25시, 나이트코드에서.", inline=False)
-BDV.add_field(name='보컬', value='V flower(버츄얼 싱어 버전)\n\n아사히나 마후유, 아키야마 미즈키(세카이 버전) ', inline=False)
+BDV.add_field(name='보컬', value='V flower(버츄얼 버전)\n\n아사히나 마후유, 아키야마 미즈키(세카이 버전) ', inline=False)
 BDV.add_field(name='Easy - 7', value='노트 수 : 196\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0125/easy.png>)', inline=True)
 BDV.add_field(name='Normal - 13', value='노트 수 : 416\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0125/normal.png>)', inline=True)
 BDV.add_field(name='Hard - 18', value='노트 수 : 615\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0125/hard.png>)', inline=True)
@@ -959,7 +959,7 @@ BDV.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198
 
 BND = discord.Embed(title='Brand New Day', description='편곡, 작곡, 작사 : irucaice', color=0x39c5bb)
 BND.add_field(name='유닛', value="VIRTUAL SINGER", inline=False)
-BND.add_field(name='보컬', value='하츠네 미쿠(버츄얼 싱어 버전)', inline=False)
+BND.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)', inline=False)
 BND.add_field(name='Easy - 9', value='노트 수 : 300\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0128/easy.png>)', inline=True)
 BND.add_field(name='Normal - 14', value='노트 수 : 378\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0128/normal.png>)', inline=True)
 BND.add_field(name='Hard - 19', value='노트 수 : 829\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0128/hard.png>)', inline=True)
