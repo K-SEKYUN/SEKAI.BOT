@@ -558,5 +558,9 @@ async def on_message(message):
     if message.content == f"{prefix}세카이검색 음악 magic number" or message.content == f"{prefix}세카이검색 음악 Magic Number" or message.content == f"{prefix}세카이검색 음악 MAGIC NUMBER" or message.content == f"{prefix}세카이검색 음악 매직 넘버" or message.content == f"{prefix}세카이검색 음악 매직넘버":
         await message.channel.send(embed=MN)
 
+    #유성의 펄스스
+    if message.content == f"{prefix}세카이검색 음악 유성의 펄스" or message.content == f"{prefix}세카이검색 음악 유성의펄스":
+        await message.channel.send(embed=YP)
+
 
 client.run(os.environ['token'])
