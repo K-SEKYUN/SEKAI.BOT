@@ -209,7 +209,7 @@ DPB.add_field(name='Master - 32', value='노트 수 : 1198\n' + '[[채보]](<htt
 DPB.set_footer(text='Sekai Viewer : sekai.best')
 DPB.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/829230675462717480/jacket_s_028.png")
 
-MP = discord.Embed(title='미라클 페인트(ミラクルペイント)', description='작곡, 작사, 편곡 : OSTER project', color=0xff9900)
+MP = discord.Embed(title='미라클 페인트(ミラクルペイント)', description='편곡, 작곡, 작사 : OSTER project', color=0xff9900)
 MP.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
 MP.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n원더랜즈×쇼타임(세카이 버전)', inline=False)
 MP.add_field(name='Easy - 9', value='노트 수 : 266\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0036/easy.png>)', inline=True)
@@ -220,7 +220,7 @@ MP.add_field(name='Master - 29', value='노트 수 : 1437\n' + '[[채보]](<http
 MP.set_footer(text='Sekai Viewer : sekai.best')
 MP.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/829232483153215508/jacket_s_036.png")
 
-BKS = discord.Embed(title='브리키의 댄스(ブリキノダンス)', description='작곡, 작사, 편곡 : 양지전공', color=0xff9900)
+BKS = discord.Embed(title='브리키의 댄스(ブリキノダンス)', description='편곡, 작곡, 작사 : 양지전공', color=0xff9900)
 BKS.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
 BKS.add_field(name='보컬', value='하츠네 미쿠(버츄얼 버전)\n\n텐마 츠카사, 카미시로 루이, 카가미네 렌(세카이 버전)\n\n텐마 츠카사(어나더 보컬 버전)\n\n카미시로 루이(어나더 보컬 버전)', inline=False)
 BKS.add_field(name='Easy - 8', value='노트 수 : 113\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0038/easy.png>)', inline=True)
@@ -231,7 +231,7 @@ BKS.add_field(name='Master - 29', value='노트 수 : 967\n' + '[[채보]](<http
 BKS.set_footer(text='Sekai Viewer : sekai.best')
 BKS.set_thumbnail(url="https://cdn.discordapp.com/attachments/828959305478832198/829233477437358080/jacket_s_038.png")
 
-SM = discord.Embed(title='스위트 매직(スイートマジック, Sweet Magic)', description='작곡, 작사, 편곡 : Junky', color=0xff9900)
+SM = discord.Embed(title='스위트 매직(スイートマジック, Sweet Magic)', description='편곡, 작곡, 작사 : Junky', color=0xff9900)
 SM.add_field(name='유닛', value="원더랜즈×쇼타임", inline=False)
 SM.add_field(name='보컬', value='카가미네 린(버츄얼 버전)\n\n하츠네 미쿠, 카가미네 린, 카가리네 렌, 메이코, 카이토(버츄얼 버전)\n\n원더랜즈x쇼타임, 카가미네 린(세카이 버전)\n\n오오토리 에무(어나더 보컬 버전)\n\n쿠사나기 네네(어나더 보컬 버전)', inline=False)
 SM.add_field(name='Easy - 5', value='노트 수 : 151\n' + '[[채보]](<https://minio.dnaroma.eu/sekai-assets/music/charts/0041/easy.png>)', inline=True)
