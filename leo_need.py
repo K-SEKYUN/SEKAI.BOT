@@ -57,7 +57,7 @@ shiho.add_field(name='학교', value='미야마스사카 여학원', inline=Fals
 shiho.add_field(name='반', value='1학년 A반', inline=False)
 shiho.add_field(name='취미', value='좋아하는 걸즈 밴드의 라이브 보러 가기, 베이스의 연습・연주', inline=False)
 shiho.add_field(name='특기', value='서예예', inline=False)
-shiho.add_field(name='좋아하는 음식', value='라멘, 햄버그그', inline=False)
+shiho.add_field(name='좋아하는 음식', value='라멘, 햄버그', inline=False)
 shiho.add_field(name='싫어하는 음식', value='두부', inline=False)
 shiho.add_field(name='약점', value='언니', inline=False)
 shiho.add_field(name='자기소개', value='어울리기를 싫어하는 고독한 늑대. 자신이 좋아하는 것에 몰두해 주위 사람들이 어떻게 생각하는지 신경쓰지 않는다. 그런 그녀도 과거에는 소꿉친구들과 행동을 같이하며 친구들을 소중하게 생각했었지만... Leo/need에서는 베이스 담당.', inline=False)
