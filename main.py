@@ -100,6 +100,14 @@ async def on_message(message):
     if message.content == f"{prefix}세카이검색 캐릭터 텐마 사키" or message.content == f"{prefix}세카이검색 캐릭터 텐마사키" or message.content == f"{prefix}세카이검색 캐릭터 Tenma Saki" or message.content == f"{prefix}세카이검색 캐릭터 tenma saki" or message.content == f"{prefix}세카이검색 캐릭터 TenmaSaki" or message.content == f"{prefix}세카이검색 캐릭터 tenmasaki" or message.content == f"{prefix}세카이검색 캐릭터 사키" or message.content == f"{prefix}세카이검색 캐릭터 Saki" or message.content == f"{prefix}세카이검색 캐릭터 saki":
         await message.channel.send(embed=saki)
 
+    #MOCHIZUKI HONAMI
+    if message.content == f"{prefix}세카이검색 캐릭터 모치즈키 호나미" or message.content == f"{prefix}세카이검색 캐릭터 모치즈키호나미" or message.content == f"{prefix}세카이검색 캐릭터 Mochizuki Honami" or message.content == f"{prefix}세카이검색 캐릭터 mochizuki honami" or message.content == f"{prefix}세카이검색 캐릭터 MochizukiHonami" or message.content == f"{prefix}세카이검색 캐릭터 mochizukihonami" or message.content == f"{prefix}세카이검색 캐릭터 호나미" or message.content == f"{prefix}세카이검색 캐릭터 honami" or message.content == f"{prefix}세카이검색 캐릭터 Honami":
+        await message.chnnel.send(embed=honami)
+
+    #HINOMORI SHIHO
+    if message.content == f"{prefix}세카이검색 캐릭터 히노모리 시호" or message.content == f"{prefix}세카이검색 캐릭터 히노모리시호" or message.content == f"{prefix}세카이검색 캐릭터 Hinomori Shiho" or message.content == f"{prefix}세카이검색 캐릭터 hinomori shiho"  or message.content == f"{prefix}세카이검색 캐릭터 HinomoriShiho" or message.content == f"{prefix}세카이검색 캐릭터 hinomorishiho" or message.content == f"{prefix}세카이검색 캐릭터 시호" or message.content == f"{prefix}세카이검색 캐릭터 shiho" or message.content == f"{prefix}세카이검색 캐릭터 Shiho":
+        await message.chnnel.send(embed=shiho)
+
 
     #PROSEKA Music Commands
     #Music LIST
@@ -558,7 +566,7 @@ async def on_message(message):
     if message.content == f"{prefix}세카이검색 음악 magic number" or message.content == f"{prefix}세카이검색 음악 Magic Number" or message.content == f"{prefix}세카이검색 음악 MAGIC NUMBER" or message.content == f"{prefix}세카이검색 음악 매직 넘버" or message.content == f"{prefix}세카이검색 음악 매직넘버":
         await message.channel.send(embed=MN)
 
-    #유성의 펄스스
+    #유성의 펄스
     if message.content == f"{prefix}세카이검색 음악 유성의 펄스" or message.content == f"{prefix}세카이검색 음악 유성의펄스":
         await message.channel.send(embed=YP)
 
