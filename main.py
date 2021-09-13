@@ -102,11 +102,11 @@ async def on_message(message):
 
     #MOCHIZUKI HONAMI
     if message.content == f"{prefix}세카이검색 캐릭터 모치즈키 호나미" or message.content == f"{prefix}세카이검색 캐릭터 모치즈키호나미" or message.content == f"{prefix}세카이검색 캐릭터 Mochizuki Honami" or message.content == f"{prefix}세카이검색 캐릭터 mochizuki honami" or message.content == f"{prefix}세카이검색 캐릭터 MochizukiHonami" or message.content == f"{prefix}세카이검색 캐릭터 mochizukihonami" or message.content == f"{prefix}세카이검색 캐릭터 호나미" or message.content == f"{prefix}세카이검색 캐릭터 honami" or message.content == f"{prefix}세카이검색 캐릭터 Honami":
-        await message.chnnel.send(embed=honami)
+        await message.channel.send(embed=honami)
 
     #HINOMORI SHIHO
     if message.content == f"{prefix}세카이검색 캐릭터 히노모리 시호" or message.content == f"{prefix}세카이검색 캐릭터 히노모리시호" or message.content == f"{prefix}세카이검색 캐릭터 Hinomori Shiho" or message.content == f"{prefix}세카이검색 캐릭터 hinomori shiho"  or message.content == f"{prefix}세카이검색 캐릭터 HinomoriShiho" or message.content == f"{prefix}세카이검색 캐릭터 hinomorishiho" or message.content == f"{prefix}세카이검색 캐릭터 시호" or message.content == f"{prefix}세카이검색 캐릭터 shiho" or message.content == f"{prefix}세카이검색 캐릭터 Shiho":
-        await message.chnnel.send(embed=shiho)
+        await message.channel.send(embed=shiho)
 
 
     #PROSEKA Music Commands
